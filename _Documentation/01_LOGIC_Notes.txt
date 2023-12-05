@@ -1,0 +1,13 @@
+
+
+SCENARIO:
+SCHEDULE:
+	1PM TO 2PM :	ON
+	2PM TO 3PM : 	OFF
+
+anything past 6 pm = automatically turn on if there is power
+
+
+temperature = if below, the input of the adc, porint, oh shit homie
+we need to increase the temperature. then stay in the loop until we are
+in bounds of the reference temperature inside the 8086

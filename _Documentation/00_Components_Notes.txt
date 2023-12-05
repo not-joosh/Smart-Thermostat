@@ -1,0 +1,37 @@
+COMPONENTS FOR 220V:
+1N4007 Silicone Diode	 
+Transformer 2F2S	 
+Polar Capacitors
+LM324 Operational Amplifier		 
+BC547 	Transistor
+2N2222  Transistor	 
+RELAY 
+220V LAMP
+200V LAMP
+8255 PPI
+8253 PIT
+8259 PIC
+ADC0808
+LM45 Temperature Sensor
+LCD 
+
+
+
+******************************
+Airconditioning Fact Checking:
+1:
+	Country			: Philippines
+	Source			: https://www.anahawproperty.com/understanding-electricity-in-the-philippines/
+	Operating Voltage	: 220V
+
+******************************
+2:
+	Country			: USA
+	Source			: 
+	Operating Voltage	:
+
+
+
+
+
+
