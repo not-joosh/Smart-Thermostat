@@ -18,6 +18,6 @@
 
 ---
 ### Computer System Designers
-- Josh Ratificar | [GitHub](https://github.com/notjoosh)
+- Josh Ratificar | [GitHub](https://github.com/not-joosh)
 - Clyde Decierdo | [GitHub](https://github.com/ccgarcia99)
 - Rodjean Gere   | [GitHub](https://github.com/Ruujiii)
